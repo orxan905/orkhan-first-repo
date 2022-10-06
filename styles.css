@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+h1{
+    width: 365px;
+    height: 93px;
+    margin-left: 124px;
+    margin-top: 91px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+.paragraphs{
+    width: 662px;
+    height: 374px;
+    margin-left: 124px;
+    margin-top: 18px;
+    margin-bottom: 94px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    padding-right: 190px;
+}
+.container{
+    display: flex;
+
+}
+.image-1 {
+width: 314px;
+height: 315px;
+
+
+}
+img {
+    width: 100%;
+}
+.image-2{
+height: 203px;
+width: 232px;
+margin-top: 94px;
+margin-left: 124px;
+margin-right: 132px;
+margin-bottom: 173px;
+}
+h2{
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 32px;
+    height: 39px;
+width: 150px;
+margin-top: 164px;
+left: 132px;
+border-radius: nullpx;
+margin-right: 314px;
+
+}
+.paragraphs-3{
+    display: flex;
+}
+.p1 , .p2 , .p3 {
+    height: 315px;
+width: 314px;
+left: 976px;
+top: 226px;
+border-radius: 0px;
+font-family: 'Roboto';
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+@media (max-width: 1399px) {
+    h1{
+        height: 53.86px;
+width: 211.39px;
+margin-left: 72px;
+margin-top: 56px;
+border-radius: nullpx;
+font-family: 'Roboto Slab';
+font-style: normal;
+font-size: 32px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    .paragraphs{
+        height: 216.60833740234375px;
+width: 383.4083557128906px;
+margin-left: 72px;
+margin-top: 120.2874755859375px;
+border-radius: nullpx;
+font-family: 'Roboto';
+font-style: normal;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+    .image-1{
+        height: 182.4375px;
+width: 181.85833740234375px;
+    }
+    h2{
+        height: 182.4375px;
+width: 181.85833740234375px;
+margin-left: 565.450439453125px;
+margin-top: 134.1875px;
+border-radius: 0px;
+font-family: 'Roboto';
+font-size: 15px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+    .p1 , .p2 , .p3 {
+        height: 22.587499618530273px;
+width: 86.87500762939453px;
+margin-left: 72px;
+margin-top: 430.1666259765625px;
+border-radius: nullpx;
+font-family: 'Roboto';
+font-size: 11px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+    .image-2{
+        display: none;
+    }
+    .paragraphs-3{
+        display: flex;
+    }
+    img {
+        width: 100%;
+    }
+    .container{
+        display: flex;
+    }
+}
+
+
+@media (max-width: 829px) and (min-width: 375px) {
+    h1 {
+       position: absolute;
+        width: 170.08px;
+        height: 43.34px;
+        margin-left: 36px;
+        margin-top: 56px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+    }
+    .paragraphs {
+       position: absolute;
+width: 308.47px;
+height: 174.27px;
+margin-left: 36px;
+margin-top: 107.72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+    }
+    .image-1 {
+       
+        height: 146.78px;
+width: 146.32px;
+margin-left: 113.12px;
+margin-top: 338px;
+border-radius: 0px;
+    }
+    h2 {
+        
+        height: 18px;
+width: 69.9px;
+margin-left: 35px;
+margin-top: 59px;
+border-radius: nullpx;
+font-family: 'Roboto';
+font-size: 12px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    .p1 , .p2 , .p3 {
+        
+        height: 18px;
+width: 86px;
+margin-left: 35px;
+margin-top: 1px;
+border-radius: nullpx;
+font-family: 'Roboto';
+font-size: 10px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    .image-2 {
+     display: none;
+    }
+    .paragraphs-3 {
+       display: block;
+    }
+    img {
+        width: 100%;
+    }
+}
